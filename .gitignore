@@ -23,3 +23,7 @@ output/
 *.jpg
 *.png
 *.pdf
+
+# Frontend build
+frontend/build/
+frontend/node_modules/
